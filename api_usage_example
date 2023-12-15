@@ -10,7 +10,7 @@ require "byebug"
 API_KEY =
   ENV.fetch(
     "WEG_LI_API_KEY",
-    "17a02fb1ffa8003091e1b57c37b522f9990873628ca905976093eb59a6b7332b",
+    "52e68c996991292b101b7c85b6cbf11ccf87095ae8e2cf1b4e3841892b9f03a1",
   )
 HOST = ENV.fetch("WEG_LI_HOST", "http://localhost:3000")
 
